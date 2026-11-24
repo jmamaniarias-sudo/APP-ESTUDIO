@@ -1,0 +1,7 @@
+{
+  "name": "DIRECTOR-PRO: Preparador Institucional para Directores de Unidad Educativa",
+  "description": "Plataforma de alta exigencia para el examen de institucionalización de Directores de Unidad Educativa. Incluye visor de documentos oficiales, resúmenes analíticos, mapas conceptuales, audios explicativos TTS, casos de gestión y simulador de exámenes con justificación técnico-pedagógica.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
